@@ -1,0 +1,5 @@
+Customer Name: Soniya
+Contact No: 9087654627
+Hotel Name: staycation_hub
+Room ID: E990
+Amount Paid: null
